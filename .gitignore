@@ -12,6 +12,10 @@ __pycache__/
 *.tar
 *.tar.gz
 
+# CelebA dataset (too large for GitHub)
+content/dl/dataset_dataloader/CelebA/img_align_celeba/
+content/dl/dataset_dataloader/CelebA/img_align_celeba
+
 # C extensions
 
 
