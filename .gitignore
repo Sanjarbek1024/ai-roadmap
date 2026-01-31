@@ -9,6 +9,11 @@ __pycache__/
 *.pkl
 *.joblib
 
+credentials.json
+token.pickle
+*.pickle
+desktop.ini
+
 *.tar
 *.tar.gz
 
