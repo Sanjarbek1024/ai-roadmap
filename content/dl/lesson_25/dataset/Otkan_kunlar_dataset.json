@@ -1,0 +1,632 @@
+[
+  {
+    "instruction": "Otabek obrazini adabiy jihatdan tahlil qiling.",
+    "input": "Uning shaxsiy qarashlari va jamiyatga munosabatini hisobga oling.",
+    "output": "Otabek zamonasidan oldinda fikrlaydigan qahramon sifatida tasvirlanadi. U savdo va taraqqiyot orqali jamiyatni rivojlantirishni istaydi. Shu bilan birga, u an’anaviy qarashlar bilan to‘qnash keladi va ichki ziddiyatni boshdan kechiradi."
+  },
+  {
+    "instruction": "Asarda eski va yangi dunyoqarashlar o‘rtasidagi qarama-qarshilikni tushuntiring.",
+    "input": "",
+    "output": "Asarda eski an’analarga qat’iy amal qiluvchi insonlar bilan yangicha fikrlovchi qahramonlar o‘rtasida ziddiyat mavjud. Muallif bu orqali jamiyat o‘zgarish jarayonini ko‘rsatadi."
+  },
+  {
+    "instruction": "Otabek nima sababdan zamonasidan oldinda yashagan qahramon deb hisoblanadi?",
+    "input": "Qisqa tahliliy javob yozing.",
+    "output": "U iqtisodiy va ijtimoiy masalalarda kengroq fikrlaydi hamda jamiyat manfaatini shaxsiy manfaatdan ustun qo‘yadi. Shu sababli uning fikrlari ko‘pchilik tomonidan tushunilmaydi."
+  },
+  {
+    "instruction": "Asardagi muhabbat tasvirini izohlang.",
+    "input": "",
+    "output": "Muhabbat romantik voqea sifatida emas, balki insoniy sinov sifatida ko‘rsatiladi. Qahramonlar sevgi orqali jamiyat bosimi va an’analar bilan kurashadi."
+  },
+  {
+    "instruction": "Otabekning qaror qabul qilish jarayonini psixologik tomondan tushuntiring.",
+    "input": "",
+    "output": "U har bir qarorni chuqur o‘ylab qabul qiladi va axloqiy mas’uliyatni his qiladi. Bu esa uning ichki kurashini kuchaytiradi."
+  },
+  {
+    "instruction": "Asar voqealarini zamonaviy jamiyat bilan solishtiring.",
+    "input": "Qisqa taqqoslash yozing.",
+    "output": "Bugungi jamiyatda ham insonlar shaxsiy tanlov va ijtimoiy bosim o‘rtasida qoladi. Shu jihatdan asar mavzusi hozirgi davr uchun ham dolzarb."
+  },
+  {
+    "instruction": "Hasanali obrazining vazifasini tushuntiring.",
+    "input": "",
+    "output": "Hasanali tajriba va sadoqat timsoli bo‘lib, yosh qahramonlarga hayotiy saboq beruvchi obraz sifatida xizmat qiladi."
+  },
+  {
+    "instruction": "Muallif jamiyatni qanday uslub orqali tanqid qiladi?",
+    "input": "",
+    "output": "Muallif bevosita tanqid qilish o‘rniga voqealar va dialoglar orqali jamiyat muammolarini ochib beradi, o‘quvchini mustaqil fikrlashga undaydi."
+  },
+  {
+    "instruction": "Qahramonning yolg‘izlik hissi nimadan kelib chiqadi?",
+    "input": "",
+    "output": "Uning qarashlari boshqalarnikidan farq qilgani sababli u ruhiy jihatdan ajralib qoladi va o‘zini tushunadigan insonlarni kam uchratadi."
+  },
+  {
+    "instruction": "Asardagi savdo faoliyatining ijtimoiy ahamiyatini tushuntiring.",
+    "input": "",
+    "output": "Savdo iqtisodiy rivojlanish belgisi sifatida tasvirlanadi va jamiyatning yangilanishiga xizmat qiluvchi omil sifatida ko‘rsatiladi."
+  },
+  {
+    "instruction": "Kumush obrazining asosiy xarakter xususiyatlarini tushuntiring.",
+    "input": "Uning oilaviy munosabatlardagi tutumiga e’tibor qarating.",
+    "output": "Kumush mehribon va sabrli obraz sifatida tasvirlanadi. U oilaviy tinchlikni saqlashga intiladi va murakkab vaziyatlarda ham murosani tanlaydi. Shu orqali muallif ayol sabr-toqatining kuchini ko‘rsatadi."
+  },
+  {
+    "instruction": "Asarda ayollar taqdiri qanday yoritilganini tahlil qiling.",
+    "input": "",
+    "output": "Ayollar jamiyat qoidalari bilan cheklangan bo‘lsa-da, ularning ichki dunyosi chuqur tasvirlanadi. Muallif ular orqali ijtimoiy tengsizlik muammosini ochib beradi."
+  },
+  {
+    "instruction": "Yusufbek hojining dunyoqarashini izohlang.",
+    "input": "Uni an’anaviy qadriyatlar vakili sifatida baholang.",
+    "output": "Yusufbek hoji an’anaviy qarashlarni hurmat qiluvchi, ammo dono va mulohazali inson sifatida ko‘rsatiladi. U tajriba orqali hayotiy muvozanatni saqlashga harakat qiladi."
+  },
+  {
+    "instruction": "Asardagi oilaviy munosabatlar qanday ijtimoiy ma’noni anglatadi?",
+    "input": "",
+    "output": "Oilaviy munosabatlar orqali jamiyatning umumiy tuzilishi aks ettiriladi. Har bir qaror faqat shaxsiy emas, balki ijtimoiy oqibatlarga ham ega ekanligi ko‘rsatiladi."
+  },
+  {
+    "instruction": "Otabek va boshqa qahramonlar qarashlari o‘rtasidagi farqni tushuntiring.",
+    "input": "Qisqa solishtirish yozing.",
+    "output": "Otabek yangicha fikrlash tarafdori bo‘lsa, boshqa qahramonlar ko‘proq an’anaviy qarashlarga tayanadi. Shu sababli ular o‘rtasida tushunmovchilik yuzaga keladi."
+  },
+  {
+    "instruction": "Asarda konfliktlarning rivojlanishiga sabab bo‘lgan omillarni sanab bering va izohlang.",
+    "input": "",
+    "output": "Konfliktlarning asosiy sabablari — an’ana va yangilik qarama-qarshiligi, shaxsiy tanlov erkinligining cheklanishi hamda jamiyat bosimidir. Bu omillar voqealarni keskinlashtiradi."
+  },
+  {
+    "instruction": "Qahramonlarning ichki kechinmalari qanday badiiy vositalar orqali ochiladi?",
+    "input": "",
+    "output": "Ichki monologlar, dialoglar va tasviriy ifodalar orqali qahramonlarning ruhiy holati ochib beriladi. Bu usul o‘quvchiga ularning his-tuyg‘ularini chuqurroq anglash imkonini beradi."
+  },
+  {
+    "instruction": "Asarni o‘qigan o‘quvchi qanday ijtimoiy xulosaga kelishi mumkin?",
+    "input": "",
+    "output": "Jamiyat taraqqiyoti uchun yangicha fikrlash zarurligi va insoniy qadriyatlar har qanday an’anadan ustun turishi kerakligi haqidagi xulosa shakllanadi."
+  },
+  {
+    "instruction": "Asardagi tarixiy muhit qahramonlar taqdiriga qanday ta’sir qiladi?",
+    "input": "",
+    "output": "Tarixiy davrning siyosiy va ijtimoiy sharoitlari qahramonlarning tanlovlarini cheklaydi. Natijada ularning shaxsiy istaklari jamiyat qoidalari bilan to‘qnashadi."
+  },
+  {
+    "instruction": "Otabek obrazini zamonaviy lider tushunchasi bilan taqqoslang.",
+    "input": "",
+    "output": "Otabek kelajakni o‘ylaydigan va jamiyat manfaatini ko‘zlaydigan shaxs sifatida zamonaviy liderlarga o‘xshaydi. U o‘z davrida islohotchi ruhni ifodalaydi."
+  },
+  {
+    "instruction": "Asardagi axloqiy tanlov tushunchasini izohlang.",
+    "input": "",
+    "output": "Qahramonlar ko‘pincha to‘g‘ri va qulay yo‘l o‘rtasida tanlov qiladi. Muallif axloqiy qaror inson shaxsiyatini belgilashini ko‘rsatadi."
+  },
+  {
+    "instruction": "Muallif til uslubining asar mazmuniga ta’sirini tushuntiring.",
+    "input": "",
+    "output": "Til sodda, ammo mazmunan chuqur bo‘lib, o‘quvchini voqealar ichiga olib kiradi. Bu uslub tarixiy muhitni jonli tasvirlashga yordam beradi."
+  },
+  {
+    "instruction": "Asardagi ijtimoiy bosim qanday tasvirlangan?",
+    "input": "",
+    "output": "Jamiyat fikri qahramonlar qaroriga bevosita ta’sir qiladi. Ular ko‘pincha o‘z istaklarini yashirishga majbur bo‘ladilar."
+  },
+  {
+    "instruction": "Qahramonlarning orzu va haqiqat o‘rtasidagi kurashini tushuntiring.",
+    "input": "",
+    "output": "Ular ideal hayotni orzu qilsa-da, real hayotdagi cheklovlar bu orzularni murakkablashtiradi. Shu orqali insoniy fojiaviylik yaratiladi."
+  },
+  {
+    "instruction": "Asardagi voqealar rivojida sabr tushunchasining o‘rnini izohlang.",
+    "input": "",
+    "output": "Sabr qahramonlarni sinovlardan o‘tkazuvchi asosiy fazilat sifatida tasvirlanadi. Bu insonning ruhiy kuchini namoyon qiladi."
+  },
+  {
+    "instruction": "Asar nima sababdan o‘zbek adabiyotida muhim o‘rin egallaydi?",
+    "input": "",
+    "output": "U milliy roman janrining rivojlanishiga katta hissa qo‘shgan. Asar orqali jamiyat, tarix va inson ruhiyati birgalikda tasvirlangan."
+  },
+  {
+    "instruction": "Asardagi do‘stlik tushunchasini sharhlang.",
+    "input": "",
+    "output": "Do‘stlik ishonch va sadoqat orqali namoyon bo‘ladi. Qahramonlar o‘rtasidagi munosabatlar insoniy qadriyatlarning muhimligini ko‘rsatadi."
+  },
+  {
+    "instruction": "Muallif voqealarni dramatik qilish uchun qanday usullardan foydalanadi?",
+    "input": "",
+    "output": "Keskin qarorlar, kutilmagan vaziyatlar va ichki ziddiyatlar dramatizmni kuchaytiradi. Bu o‘quvchini voqeaga jalb qiladi."
+  },
+  {
+    "instruction": "Asardagi insoniy qadriyatlar haqida umumiy xulosa yozing.",
+    "input": "",
+    "output": "Asar insoniylik, adolat va sadoqat kabi qadriyatlarni ulug‘laydi. Muallif inson baxti jamiyat ongining o‘zgarishi bilan bog‘liqligini ko‘rsatadi."
+  },
+  {
+    "instruction": "Asarni o‘qish yoshlar uchun qanday foyda berishi mumkinligini tushuntiring.",
+    "input": "",
+    "output": "Asar yoshlarni mustaqil fikrlashga va tarixiy tajribadan saboq olishga undaydi. U insoniy qarorlarning oqibatlarini tushunishga yordam beradi."
+  },
+  {
+    "instruction": "Otabekning ilk bor tasvirlangan sahnadagi tashqi ko‘rinishi va xarakteri haqida tushuntiring.",
+    "input": "Saroydagi mehmonxona tasviri asosida javob bering.",
+    "output": "Asarda Otabek boshqa mehmonlardan ajralib turadigan, og‘ir tabiatli va mulohazali yigit sifatida tasvirlanadi. Uning joylashgan hujrasi ham boshqalarnikidan bezakliroq bo‘lib, bu uning ijtimoiy mavqeini ko‘rsatadi. Muallif tashqi ko‘rinish orqali uning ichki jiddiyligini ham ifodalaydi."
+  },
+  {
+    "instruction": "Hasanali obrazining Otabek hayotidagi o‘rnini izohlang.",
+    "input": "",
+    "output": "Hasanali dastlab qul sifatida olingan bo‘lsa ham, vaqt o‘tishi bilan oilaning ishonchli a’zosiga aylangan. U Otabekka otadek mehr ko‘rsatadi va uning har bir holatidan xavotir oladi. Bu orqali sadoqat va insoniy munosabatlar tasvirlanadi."
+  },
+  {
+    "instruction": "Rohat va noqulaylik hissi Otabekning Marg‘ilonga kelganida qanday ifodalanadi?",
+    "input": "",
+    "output": "Otabek dastlab begona muhit sabab o‘zini yolg‘iz his qiladi. U tanish insonlar yo‘qligi tufayli zerikadi, ammo keyinchalik mehmonlar kelishi bilan kayfiyati o‘zgaradi. Bu holat uning insoniy yaqinlikka ehtiyojini ko‘rsatadi."
+  },
+  {
+    "instruction": "Rahmat va Homidning suhbatlari orqali nikoh masalasiga turli qarashlarni tahlil qiling.",
+    "input": "",
+    "output": "Rahmat nikohda o‘zaro moslik muhimligini ta’kidlaydi, ya’ni er va ayol bir-birini tushunishi kerak deb hisoblaydi. Homid esa erkak ustunligini yoqlaydi. Muallif shu dialog orqali jamiyatdagi qarama-qarshi fikrlarni ko‘rsatadi."
+  },
+  {
+    "instruction": "Otabekning uylanish haqidagi fikrini tushuntiring.",
+    "input": "Suhbat jarayonidagi javoblariga tayangan holda.",
+    "output": "Otabek nikohni juda mas’uliyatli qaror deb biladi. U faqat ayol erkakka mos bo‘lishi emas, balki erkak ham ayolga mos bo‘lishi kerakligini aytadi. Bu uning adolatli va zamonaviy qarashlarga ega ekanini bildiradi."
+  },
+  {
+    "instruction": "Mirzakarim qutidor bilan uchrashuv sahnasining ahamiyatini tushuntiring.",
+    "input": "",
+    "output": "Bu uchrashuv orqali Otabekning oilasi va savdogarlar o‘rtasidagi aloqalar ochiladi. Qutidor Otabekni yoshligidan tanishini aytadi, bu esa qahramonning ijtimoiy muhitini kengroq ko‘rsatadi."
+  },
+  {
+    "instruction": "Otabekning Rossiya shahri Shamay haqidagi fikrlari nimani anglatadi?",
+    "input": "",
+    "output": "Otabek Shamayda ko‘rgan tartib va boshqaruvni o‘z yurti bilan solishtiradi. U yerda tartibli boshqaruv borligini ko‘rib, o‘z mamlakatidagi tartibsizlikdan xavotirga tushadi. Bu uning islohotchi fikrlashini ko‘rsatadi."
+  },
+  {
+    "instruction": "Asarda siyosiy tanqid qanday berilganini tushuntiring.",
+    "input": "Azizbek haqidagi suhbatni eslang.",
+    "output": "Otabek hokimning zolimligini ochiq aytadi. Bu orqali muallif adolatsiz boshqaruvni tanqid qiladi va jamiyatdagi zulm muammosini ko‘rsatadi."
+  },
+  {
+    "instruction": "Hasanalining Otabekdagi o‘zgarishni sezishi nimani bildiradi?",
+    "input": "",
+    "output": "Hasanali Otabekning xayolchan bo‘lib qolganini payqaydi. U dastlab kasallik deb o‘ylaydi, ammo keyinchalik bu muhabbat sabab ekanini tushunadi. Bu sahna qahramon ruhiy holatining o‘zgarishini ko‘rsatadi."
+  },
+  {
+    "instruction": "Otabekning oshiq bo‘la boshlaganini qanday belgilar orqali bilish mumkin?",
+    "input": "",
+    "output": "Uning uyquda ham go‘zal qiz haqida gapirishi, fikrga cho‘mib qolishi va atrofga e’tiborsiz bo‘lishi muhabbat alomatlari sifatida tasvirlanadi. Hasanali aynan shu belgilar orqali haqiqatni anglaydi."
+  },
+  {
+    "instruction": "Otabek va Hasanali o‘rtasidagi suhbatdan qanday axloqiy xulosa chiqarish mumkin?",
+    "input": "",
+    "output": "Ular o‘rtasidagi suhbat ishonch va samimiyatga asoslangan. Hasanali o‘zini xizmatkor emas, balki ma’naviy ota sifatida tutadi. Bu insoniy yaqinlikning kuchini ko‘rsatadi."
+  },
+  {
+    "instruction": "Marg‘ilon muhitining tasviri orqali muallif qanday atmosferani yaratadi?",
+    "input": "",
+    "output": "Savdogarlar saroyi, mehmonlar va kundalik hayot tasviri orqali jonli savdo shahri muhiti yaratiladi. Bu o‘quvchini voqealar markaziga olib kiradi."
+  },
+  {
+    "instruction": "Otabekning jamiyat haqidagi fikrlarini tahlil qiling.",
+    "input": "",
+    "output": "U jamiyatning orqada qolish sababini ichki nizolar bilan bog‘laydi. Otabek birlik bo‘lmasa taraqqiyot bo‘lmasligini ta’kidlaydi."
+  },
+  {
+    "instruction": "Asarda do‘stlik qanday namoyon bo‘ladi?",
+    "input": "",
+    "output": "Rahmatning Otabekni mehmonlikka taklif qilishi va unga hurmat bilan munosabatda bo‘lishi orqali samimiy do‘stlik ko‘rsatiladi."
+  },
+  {
+    "instruction": "Otabekning savdogar sifatidagi xarakterini tushuntiring.",
+    "input": "",
+    "output": "U savdo orqali yangi joylarni ko‘radi va tajriba orttiradi. Safarlari uning dunyoqarashini kengaytirib, uni boshqa qahramonlardan farqlaydi."
+  },
+  {
+    "instruction": "Abdulla Qodiriy asar muqaddimasida nima uchun aynan 'roman' janrini tanlaganini va uning o‘zbek adabiyotidagi o‘rni haqida nimalarni ta'kidlaganini tushuntirib bering.",
+    "input": "Roman muqaddimasidagi muallif so‘zi.",
+    "output": "Muallif o‘zbek adabiyotiga yangi bir davr kirib kelayotganini his qilgan holda, xalqimizni jahon adabiyoti andozalari bilan tanishtirishni maqsad qilgan. U bu asarni yangi zamon hikoyachiligi va roman janri bilan tanishish yo‘lidagi ilk 'kichkina bir tajriba' deb ataydi. Qodiriy an'anaviy dostonlar o‘rniga real hayotni va ijtimoiy muammolarni aks ettiruvchi murakkab janrga qo‘l uradi. Uning fikricha, har bir yangi ishning boshlanishida kamchiliklar bo‘lishi tabiiy, lekin vaqt o‘tishi bilan bu janr bizda ham takomillashib boradi. Muallif o‘tmishni o‘rganishni kelajak uchun xayrli ish deb bilib, tariximizning eng qorong‘u va xato bilan to‘la kunlarini xalqqa oyna kabi ko‘rsatib berishni ixtiyor etgan."
+  },
+  {
+    "instruction": "Otabek obrazining tashqi qiyofasi va uning Marg‘ilondagi saroyda tutgan o‘rni orqali qahramonning ichki dunyosini tahlil qiling.",
+    "input": "Otabekning romandagi ilk tasviri (1-bo‘lim).",
+    "output": "Otabek obrazida muallif nafaqat jismoniy go‘zallikni, balki ma’naviy yetuklik va vazminlikni mujassamlashtirgan. Uning 'o‘g‘ir tabiatli' va 'ko‘rkam' ekani uning oddiy savdogarlardan farqli o‘laroq, chuqur tafakkur va aslzoda tarbiya egasi ekanidan dalolat beradi. Xonadagi qizil gilam va sham yonib turishi kabi detallar uning boshqa musofirlardan ko‘ra madaniyatliroq va didi baland ekanini ko‘rsatadi. Otabekning doimiy xayolchanligi esa uning shaxsiy tashvishlardan ko‘ra, millat dardi va jamiyatning ayanchli ahvoli haqida ko‘p o‘ylashiga ishoradir. Qodiriy bu qahramon orqali o‘zbek xalqining ma’rifatli, mard va olijanob yangi avlod vakilini gavdalantirgan. Uning har bir harakati uning ichki va tashqi olami mutanosibligini tasdiqlaydi."
+  },
+  {
+    "instruction": "Yusufbek hojining Otabekka yozgan maktubidagi 'oqlik va qoralikni ajrata olish' g‘oyasini asarning umumiy maqsadi bilan qanday bog‘lash mumkin?",
+    "input": "Yusufbek hojining o‘g‘liga yo‘llagan maktubi.",
+    "output": "Asarning markaziy g‘oyalaridan biri — jaholat va fitna hukmron bo‘lgan muhitda haqiqatni anglash va adolatni qaror toptirishdir. Yusufbek hoji maktubida xalqning Azizbek kabi zolimlar so‘ziga tezda albanib, o‘z birodarlariga qarshi qurol ko‘tarishidan chuqur afsuslanadi. 'Oqlik va qoralikni ajratish' — bu shunchaki ko‘rish qobiliyati emas, balki siyosiy hushyorlik va millat manfaatini shaxsiy adovatlardan ustun qo‘yish demakdir. Muallif bu orqali birlashmagan va o‘zligini anglamagan millatning fojiasi muqarrar ekanini ko‘rsatib beradi. Inson o‘z vijdoniga tayangan holda ijtimoiy voqealarga xolis baho berishi kerakligi asarning bosh darslaridan biridir. Bu tushuncha milliy uyg‘onish va ozodlik uchun eng birinchi va zaruriy shart sifatida talqin etiladi."
+  },
+  {
+    "instruction": "Romandagi 'qora chopon' va 'qipchoq' nizolari orqali o‘sha davr Turkistonining ijtimoiy-siyosiy inqirozi haqida nimalarni bilib olamiz?",
+    "input": "Otabekning Ziyo shohichi xonadonidagi siyosiy suhbatlari.",
+    "output": "XIX asr o‘rtalaridagi Turkiston xonliklarida hukm surgan ichki nizolar millatning umumiy parchalanishiga va zaiflashishiga sabab bo‘lgan. Otabek bu nizolarni jamiyatni tubsiz jarlikka sudrayotgan eng asosiy omil deb hisoblaydi va ularni qattiq qoralaydi. Uning fikricha, bu ziddiyatlar xalqning xohishi emas, balki shaxsiy manfaati yo‘lida odamlarni bir-biriga qayrayotgan g‘arazgo‘y boshliqlarning fitnasidir. Bunday ijtimoiy muhit mamlakatning himoya qobiliyatini yo‘qotib, tashqi bosqinchi kuchlar uchun qulay sharoit yaratishi asarda aniq ko‘rsatilgan. Qodiriy bu tarixiy voqealar orqali o‘zaro adovat faqatgina qon to‘kilishi va taraqqiyotning to‘xtashiga olib kelishini badiiy tasvirlar bilan isbotlaydi. Bu holat o‘sha davr jamiyatining naqadar chuqur inqirozga botganini va islohotlarga muhtojligini anglatadi."
+  },
+  {
+    "instruction": "Otabekning Shamay (Semipalatinsk) safaridan so‘ng o‘z vatanidagi boshqaruv tizimiga bergan bahosini va uning bu qarorga kelish sabablarini tahlil qiling.",
+    "input": "Otabekning rus shaharlaridagi tartib-qoida haqidagi hikoyasi.",
+    "output": "Otabek chet elga qilgan safari davomida u yerdagi iqtisodiy va ma’muriy tartiblarni o‘z vatanidagi holat bilan solishtirib, katta xulosalar chiqaradi. U o‘z yurtiga qaytgach, bizdagi boshqaruv tizimi va qonun-qoidalarning 'o‘yinchoq' darajasida ekanini achchiq bilan e’tirof etadi. Qahramonning Shamaydagi qonun ustuvorligi va ijtimoiy tartibni ko‘rib hayratlanishi, unda o‘z xalqini ham shunday taraqqiy etgan holda ko‘rish orzusini uyg‘otadi. Biroq u o‘zining yangicha qarashlarini amalda qo‘llashga imkon topolmasligini, xon va beklarning bunga tayyor emasligini tushunib, ruhiy tushkunlikka tushadi. Bu tahliliy yondashuv Otabekni oddiy savdogardan millatning kelajagi haqida qayg‘uruvchi islohotchi darajasiga ko‘taradi. Uning bu qarorlari o‘sha davr o‘zbek yoshlarining dunyoqarashi kengayib borayotganidan darak beradi."
+  },
+  {
+    "instruction": "Yusufbek hojining 'ittifoq bo‘lmaslik' haqidagi fojiaviy nidosini bugungi kundagi milliy birlik tushunchasi bilan qanday bog‘lash mumkin?",
+    "input": "Asar so‘ngidagi Yusufbek hojining xalqqa va o‘g‘liga aytgan so‘zlari.",
+    "output": "Yusufbek hojining asar oxirida aytgan achchiq haqiqatlari har qanday davr jamiyati uchun o‘ta muhim darsdir. Birlik va hamjihatlikning yo‘qligi nafaqat bir oilaning, balki butun boshli davlatning tanazzuliga olib kelishi asarda fojiaviy misollar bilan ko‘rsatilgan. Bugungi globallashuv davrida ham milliy birlik va umumiy maqsad sari intilish davlat mustaqilligini saqlab qolishning eng asosiy kafolatidir. Qodiriy o‘z qahramoni tili bilan bizni o‘tmishdagi xatolarni takrorlamaslikka, ichki nizolardan yiroq bo‘lishga va vatan taqdiriga befarq bo‘lmaslikka chaqiradi. Yusufbek hojining iztiroblari bizga shuni o‘rgatadiki, millat o‘z-o‘zini anglamasa va birlashmasa, uning taqdiri begona qo‘llarga o‘tib ketishi muqarrar. Shuning uchun bu o‘gitlar zamonaviy o‘zbek jamiyati uchun ham o‘z kuchini va ahamiyatini aslo yo‘qotmagan."
+  },
+  {
+    "instruction": "Otabekning Shamay safaridan keyingi fikrlari orqali uning dunyoqarashi qanday o‘zgarganini tushuntiring.",
+    "input": "",
+    "output": "Otabek Shamay shahrida tartibli boshqaruv va rivojlangan jamiyatni ko‘rib, o‘z yurtidagi tartibsizliklarni chuqurroq anglay boshlaydi. U davlat boshqaruvi isloh qilinmasa xalq orqada qolishini tushunadi. Bu safar uning fikrlashini yanada kengaytiradi."
+  },
+  {
+    "instruction": "Majlisda Otabekning Azizbek haqida ochiq fikr bildirishi nimani ko‘rsatadi?",
+    "input": "",
+    "output": "Otabek hokimning zolimligini yashirmay aytadi. Bu uning haqiqatni qo‘rqmasdan gapira oladigan adolatparvar shaxs ekanini ko‘rsatadi. U shaxsiy manfaatdan ko‘ra xalq manfaatini ustun qo‘yadi."
+  },
+  {
+    "instruction": "Otabekning jamiyatdagi nizolar haqidagi fikrini izohlang.",
+    "input": "",
+    "output": "U jamiyatning orqada qolish sababini tashqi dushman emas, balki ichki kelishmovchiliklarda deb biladi. Odamlar o‘zaro adovat tufayli taraqqiyotdan uzoqlashayotganini ta’kidlaydi."
+  },
+  {
+    "instruction": "Hasanali Otabekning oshiq bo‘lganini qanday aniqlaydi?",
+    "input": "",
+    "output": "Hasanali Otabekning xayolchan bo‘lib qolganini, uyquda ham go‘zal qiz haqida gapirganini eshitadi. Shu belgilar orqali u bekning ruhiy holati muhabbat bilan bog‘liq ekanini tushunadi."
+  },
+  {
+    "instruction": "Tungi sahnada Hasanali obrazining mehribonligi qanday namoyon bo‘ladi?",
+    "input": "",
+    "output": "Hasanali sovuq tun bo‘lishiga qaramay Otabekni kuzatadi va uning sog‘lig‘idan xavotir oladi. Bu uning xizmatkor emas, balki ota mehriga ega inson ekanini ko‘rsatadi."
+  },
+  {
+    "instruction": "Rahmat va Homid o‘rtasidagi nikoh haqidagi bahsdan qanday ijtimoiy xulosa chiqarish mumkin?",
+    "input": "",
+    "output": "Rahmat o‘zaro muhabbatni muhim desa, Homid erkak hukmronligini yoqlaydi. Bu dialog jamiyatdagi eski va yangi qarashlar o‘rtasidagi farqni ochib beradi."
+  },
+  {
+    "instruction": "Qutidorning Otabekni qadrlashi nimaga asoslanganini tushuntiring.",
+    "input": "",
+    "output": "Qutidor Otabekning aql-zakovati va mulohazali fikrlarini ko‘rib uni hurmat qiladi. U yosh bo‘lishiga qaramay dono fikr yuritishini yuqori baholaydi."
+  },
+  {
+    "instruction": "Majlisdagi suhbatlar orqali savdogarlar jamiyatining qanday jihatlari ochiladi?",
+    "input": "",
+    "output": "Savdogarlar siyosat, savdo va jamiyat muammolari haqida fikr almashadi. Bu ularning faqat tijorat bilan emas, ijtimoiy hayot bilan ham qiziqishini ko‘rsatadi."
+  },
+  {
+    "instruction": "Otabekning musofirlikdagi yolg‘izlik hissi qanday tasvirlangan?",
+    "input": "",
+    "output": "U Marg‘ilonga kelganda tanishlari yo‘qligi sabab zerikadi. Mehmonlar kelgach esa kayfiyati o‘zgaradi. Bu uning insoniy yaqinlikka ehtiyojini bildiradi."
+  },
+  {
+    "instruction": "Otabekning uylanish masalasiga jiddiy qarashi nimani anglatadi?",
+    "input": "",
+    "output": "U nikohni oddiy urf emas, balki ikki insonning mosligi deb tushunadi. Erkak ham ayolga mos bo‘lishi kerakligini aytib, tenglik g‘oyasini ilgari suradi."
+  },
+  {
+    "instruction": "Hasanali va Otabek o‘rtasidagi suhbatdan ishonch tushunchasini izohlang.",
+    "input": "",
+    "output": "Otabek Hasanaliyni ma’naviy ota deb ataydi. Bu ularning munosabati xizmatkor va xo‘jayin chegarasidan chiqib, chin insoniy ishonchga aylanganini ko‘rsatadi."
+  },
+  {
+    "instruction": "Majlisdagi odamlarning Otabek nutqiga hayratlanishining sababi nima?",
+    "input": "",
+    "output": "U ilgari eshitilmagan siyosiy va ijtimoiy fikrlarni aytadi. Boshqalar kelajak haqida o‘ylamagan bo‘lsa, Otabek jamiyat taqdiridan tashvish chekadi."
+  },
+  {
+    "instruction": "Otabekning savdo safarlari uning xarakteriga qanday ta’sir qilgan?",
+    "input": "",
+    "output": "Safarlar uning dunyoqarashini kengaytirgan va uni boshqalarga qaraganda tajribaliroq qilgan. Turli jamiyatlarni ko‘rib, u yangilanish zarurligini anglaydi."
+  },
+  {
+    "instruction": "Asardagi majlis sahnalari qanday badiiy vazifani bajaradi?",
+    "input": "",
+    "output": "Majlislar orqali turli fikrlar to‘qnashuvi ko‘rsatiladi. Muallif dialoglar yordamida jamiyat muammolarini ochib beradi."
+  },
+  {
+    "instruction": "Hasanali nega Otabekning sirini bilishga harakat qiladi?",
+    "input": "",
+    "output": "U Otabekni o‘z farzandidek ko‘radi va uning ruhiy holatidan xavotir oladi. Shu sababli yashirin dardini tushunishga intiladi."
+  },
+  {
+    "instruction": "Otabek va Kumushning ilk uchrashuvi qahramon ruhiyatiga qanday ta’sir qilganini tushuntiring.",
+    "input": "",
+    "output": "Uchrashuv Otabek hayotida burilish nuqtasiga aylanadi. U avval sovuqqon va mulohazali bo‘lsa, Kumushni ko‘rgach hissiyotlari kuchayadi. Bu holat uning ichki dunyosida yangi tuyg‘ular uyg‘onganini ko‘rsatadi."
+  },
+  {
+    "instruction": "Kumush obrazining odob va tarbiya jihatidan qanday tasvirlanganini izohlang.",
+    "input": "",
+    "output": "Kumush kamtar, muloyim va hurmatli qiz sifatida tasvirlanadi. Uning gapirish uslubi va kattalarga munosabati orqali sharqona tarbiya namunasi ko‘rsatiladi."
+  },
+  {
+    "instruction": "Otabekning Toshkentga qaytgach duch kelgan muammolarini tahlil qiling.",
+    "input": "Oilaviy qarorlar bilan bog‘liq holatni hisobga oling.",
+    "output": "Toshkentga qaytgach Otabek ota-onasi tanlagan turmush masalasi bilan yuzlashadi. Uning shaxsiy tanlovi va oilaviy majburiyat o‘rtasida ziddiyat yuzaga keladi."
+  },
+  {
+    "instruction": "Zaynab obrazining xarakterini tushuntiring.",
+    "input": "",
+    "output": "Zaynab rashk va hissiyotga tez beriladigan obraz sifatida tasvirlanadi. U o‘z sevgisini himoya qilishga urinadi, ammo bu harakatlar kelajakdagi fojiaga sabab bo‘ladi."
+  },
+  {
+    "instruction": "Otabekning ikki oila o‘rtasida qolib ketishi qanday dramatik vaziyat yaratadi?",
+    "input": "",
+    "output": "U bir tomondan muhabbatini, ikkinchi tomondan ota-onasi irodasini hurmat qilishga majbur bo‘ladi. Bu ichki ziddiyat voqealarning keskinlashishiga olib keladi."
+  },
+  {
+    "instruction": "Kumushning sabr-toqati orqali muallif qanday g‘oyani ko‘rsatadi?",
+    "input": "",
+    "output": "Kumush qiyinchiliklarga qaramay sabr qiladi va oilani saqlashga harakat qiladi. Muallif sabr insoniy fazilat sifatida yuksak qadrlanishini ko‘rsatadi."
+  },
+  {
+    "instruction": "Asarda rashk hissi qanday fojiaviy oqibatlarga olib kelishini tushuntiring.",
+    "input": "",
+    "output": "Rashk asta-sekin ishonchsizlikka aylanadi. Qahramonlarning noto‘g‘ri qarorlari esa fojiaviy natijaga olib kelib, insoniy munosabatlarning nozikligini ko‘rsatadi."
+  },
+  {
+    "instruction": "Otabekning ota-onasiga bo‘lgan hurmati uning qarorlariga qanday ta’sir qiladi?",
+    "input": "",
+    "output": "U ota-onasini ranjitmaslik uchun o‘z istaklarini cheklaydi. Bu esa uning shaxsiy baxti va burch o‘rtasidagi kurashni kuchaytiradi."
+  },
+  {
+    "instruction": "Kumush va Zaynab o‘rtasidagi qarama-qarshilik nimani anglatadi?",
+    "input": "",
+    "output": "Bu qarama-qarshilik ikki xil xarakter va ikki xil hissiy dunyo to‘qnashuvidir. Muallif inson fe’l-atvorining turlicha bo‘lishini ko‘rsatadi."
+  },
+  {
+    "instruction": "Otabekning fojiaga olib kelgan asosiy xatosini tahlil qiling.",
+    "input": "",
+    "output": "U barcha tomonlarni rozi qilishga urinadi, ammo qat’iy qaror qabul qilolmaydi. Natijada vaziyat murakkablashib, salbiy oqibatlar yuz beradi."
+  },
+  {
+    "instruction": "Asardagi oilaviy muhit qahramonlarning taqdiriga qanday ta’sir qiladi?",
+    "input": "",
+    "output": "Oilaviy bosim qahramonlarning shaxsiy tanlovini cheklaydi. Har bir qaror jamiyat qoidalari bilan belgilanadi."
+  },
+  {
+    "instruction": "Kumushning fojiaviy taqdiri orqali qanday axloqiy xulosa beriladi?",
+    "input": "",
+    "output": "Asar insoniy mehr va ishonch yo‘qolsa, fojiaga olib kelishini ko‘rsatadi. Muallif rashk va adolatsizlikning oqibatini ochib beradi."
+  },
+  {
+    "instruction": "Otabekning ruhiy holati fojiadan keyin qanday o‘zgaradi?",
+    "input": "",
+    "output": "U chuqur iztirobga tushadi va o‘zini aybdor his qiladi. Bu uning ruhiy sinishini va hayotga bo‘lgan qarashi o‘zgarganini ko‘rsatadi."
+  },
+  {
+    "instruction": "Asarda muhabbat va burch o‘rtasidagi ziddiyatni tushuntiring.",
+    "input": "",
+    "output": "Qahramonlar yurak istagi bilan jamiyat talablarini birlashtira olmaydi. Shu ziddiyat asarning asosiy dramatik kuchiga aylanadi."
+  },
+  {
+    "instruction": "Roman yakunidagi fojiaviy kayfiyat qanday yaratilganini izohlang.",
+    "input": "",
+    "output": "Voqealar asta-sekin keskinlashib boradi va qahramonlarning ichki iztiroblari kuchayadi. Muallif o‘quvchini chuqur hissiy ta’sir ostida qoldiradi."
+  },
+  {
+    "instruction": "Otabekning Kumushga bo‘lgan munosabati vaqt o‘tishi bilan qanday o‘zgarishini tushuntiring.",
+    "input": "",
+    "output": "Dastlab Otabek Kumushni go‘zalligi orqali qadrlasa, keyinchalik uning sabr-toqati va pok qalbini anglay boshlaydi. Munosabat asta-sekin chuqur hurmat va ruhiy yaqinlikka aylanadi. Bu o‘zgarish qahramonning hissiy yetilish jarayonini ko‘rsatadi."
+  },
+  {
+    "instruction": "Zaynabning ruhiy holatini uning harakatlari orqali tahlil qiling.",
+    "input": "",
+    "output": "Zaynab o‘zini e’tibordan chetda qolgan deb his qiladi. Rashk hissi uning fikrlashini toraytiradi va u voqealarni noto‘g‘ri talqin qila boshlaydi. Natijada hissiyot aql ustidan g‘alaba qiladi."
+  },
+  {
+    "instruction": "Otabekning ikki ayol o‘rtasidagi vaziyati qanday ijtimoiy muammoni ochib beradi?",
+    "input": "",
+    "output": "Bu holat majburiy nikoh va shaxsiy tanlov erkinligi masalasini ko‘rsatadi. Jamiyat qoidalari inson baxtidan ustun qo‘yilganda fojiaviy oqibatlar yuzaga kelishini muallif ochib beradi."
+  },
+  {
+    "instruction": "Kumushning sabrli fe’l-atvori asar g‘oyasiga qanday xizmat qiladi?",
+    "input": "",
+    "output": "Kumushning sabri insoniy poklik ramzi sifatida beriladi. U ziddiyatlarga javoban adovat emas, balki muloyimlikni tanlaydi. Shu orqali muallif ma’naviy kuch tashqi kuchdan ustunligini ko‘rsatadi."
+  },
+  {
+    "instruction": "Asarda rashk hissining bosqichma-bosqich kuchayishini tushuntiring.",
+    "input": "",
+    "output": "Rashk dastlab shubha sifatida paydo bo‘ladi, keyin ishonchsizlikka aylanadi va oxir-oqibat keskin qarorlarga olib keladi. Muallif hissiyot nazorat qilinmasa halokatga sabab bo‘lishini ko‘rsatadi."
+  },
+  {
+    "instruction": "Otabekning ichki iztirobi qanday badiiy usullar orqali ifodalanadi?",
+    "input": "",
+    "output": "Qahramonning sukutga cho‘mishi, yolg‘izlikni afzal ko‘rishi va chuqur o‘yga berilishi orqali ruhiy og‘riq tasvirlanadi. Muallif tashqi harakatdan ko‘ra ichki holatni muhimroq qiladi."
+  },
+  {
+    "instruction": "Fojeaga olib kelgan voqealar zanjirini qisqacha tushuntiring.",
+    "input": "",
+    "output": "Noto‘g‘ri tushunishlar, rashk va ochiq suhbatning yo‘qligi voqealarni asta-sekin keskinlashtiradi. Har bir kichik xato keyingi katta muammoga sabab bo‘ladi va yakunda fojiaga olib keladi."
+  },
+  {
+    "instruction": "Kumush taqdiri orqali muallif qanday axloqiy ogohlantirish beradi?",
+    "input": "",
+    "output": "Muallif inson qalbini tushunmaslik va shubha bilan yashash halokatli ekanini ko‘rsatadi. Mehr va ishonch yo‘qolsa, eng pok inson ham qurbon bo‘lishi mumkin."
+  },
+  {
+    "instruction": "Otabekning fojiadan keyingi ruhiy o‘zgarishini izohlang.",
+    "input": "",
+    "output": "U o‘z qarorlarini qayta baholay boshlaydi va chuqur pushaymonlikni his qiladi. Bu holat qahramonning ichki dunyosi butunlay o‘zgarganini bildiradi."
+  },
+  {
+    "instruction": "Asarda inson taqdiri va jamiyat o‘rtasidagi bog‘liqlik qanday ko‘rsatiladi?",
+    "input": "",
+    "output": "Qahramonlar taqdiri faqat shaxsiy qaror bilan emas, balki jamiyat bosimi bilan ham belgilanadi. Muallif inson erkinligi cheklanganda fojiaviy natijalar paydo bo‘lishini ko‘rsatadi."
+  },
+  {
+    "instruction": "Otabekning ideal jamiyat haqidagi tasavvurini tushuntiring.",
+    "input": "",
+    "output": "U adolatli boshqaruv va o‘zaro hurmatga asoslangan jamiyatni orzu qiladi. Uning fikricha, taraqqiyot birlik va bilim orqali keladi."
+  },
+  {
+    "instruction": "Asarda sevgi qanday sinov sifatida tasvirlangan?",
+    "input": "",
+    "output": "Sevgi qahramonlarni baxtga emas, balki murakkab tanlovlarga olib keladi. Shu orqali inson his-tuyg‘ularining mas’uliyat bilan bog‘liqligi ko‘rsatiladi."
+  },
+  {
+    "instruction": "Zaynabning qarorlari orqali inson hissiyotlari haqida qanday xulosa chiqarish mumkin?",
+    "input": "",
+    "output": "Nazorat qilinmagan hissiyot insonni noto‘g‘ri yo‘lga boshlashi mumkin. Rashk aqlni cheklab, voqealarni noto‘g‘ri baholashga olib keladi."
+  },
+  {
+    "instruction": "Roman yakunidagi umumiy kayfiyatni tahlil qiling.",
+    "input": "",
+    "output": "Yakun fojiaviy va og‘ir ruhda beriladi. O‘quvchi insoniy xatolar oqibatini chuqur his qiladi va voqealar ustida mulohaza yuritishga majbur bo‘ladi."
+  },
+  {
+    "instruction": "Asarning asosiy g‘oyasini bir necha jumlada tushuntiring.",
+    "input": "",
+    "output": "Asar insoniy qadriyatlar, erkin tanlov va jamiyat bosimi o‘rtasidagi ziddiyatni ko‘rsatadi. Muallif adolat va tushunish yo‘q joyda fojiadan qochib bo‘lmasligini ta’kidlaydi."
+  },
+  {
+    "instruction": "Otabekning savdo safarlari uning shaxs sifatida shakllanishiga qanday ta’sir qilganini tushuntiring.",
+    "input": "",
+    "output": "Safarlar davomida Otabek turli odamlar va jamiyatlarni ko‘radi. Bu tajribalar uning fikrlashini kengaytiradi va uni boshqa tengdoshlaridan ko‘ra mustaqil qaror qabul qiladigan inson qiladi."
+  },
+  {
+    "instruction": "Marg‘ilon va Toshkent muhitlarini solishtirib izohlang.",
+    "input": "Ijtimoiy muhit farqlariga e’tibor qarating.",
+    "output": "Marg‘ilon savdo va mehmondo‘stlik muhiti bilan tasvirlansa, Toshkentda oilaviy va ijtimoiy bosim kuchliroq seziladi. Bu farq qahramon ruhiyatiga ham ta’sir qiladi."
+  },
+  {
+    "instruction": "Otabekning ota-onasiga bo‘lgan hurmati uning hayotidagi qarorlarni qanday murakkablashtiradi?",
+    "input": "",
+    "output": "U ota-onasining roziligini yo‘qotishni istamaydi. Shu sababli o‘z baxti va burchi o‘rtasida qolib ketadi, bu esa dramatik vaziyatni kuchaytiradi."
+  },
+  {
+    "instruction": "Kumushning muloyim muomalasi boshqa qahramonlarga qanday ta’sir ko‘rsatadi?",
+    "input": "",
+    "output": "Uning yumshoqligi atrofdagi keskin vaziyatlarni vaqtincha bo‘lsa ham yumshatadi. Kumush insoniylik orqali muammolarni hal qilishga harakat qiladi."
+  },
+  {
+    "instruction": "Asarda noto‘g‘ri tushunishlar qanday qilib katta muammolarga aylanishini tushuntiring.",
+    "input": "",
+    "output": "Qahramonlar ochiq gaplashmagani sababli shubhalar paydo bo‘ladi. Bu shubhalar vaqt o‘tishi bilan kuchayib, qaytarib bo‘lmaydigan oqibatlarga olib keladi."
+  },
+  {
+    "instruction": "Otabekning ichki monologlari orqali uning qanday inson ekanini tahlil qiling.",
+    "input": "",
+    "output": "Ichki fikrlari uning mas’uliyatli va o‘zini tanqid qila oladigan shaxs ekanini ko‘rsatadi. U har bir qarorining oqibatini o‘ylaydi."
+  },
+  {
+    "instruction": "Asarda jamiyat fikrining inson hayotiga ta’siri qanday ko‘rsatilgan?",
+    "input": "",
+    "output": "Jamiyat bosimi qahramonlarni o‘z istaklaridan voz kechishga majbur qiladi. Muallif shu orqali ijtimoiy qarashlarning kuchini ko‘rsatadi."
+  },
+  {
+    "instruction": "Zaynabning rashki qanday bosqichlarda kuchayadi?",
+    "input": "",
+    "output": "Avval kichik shubha sifatida boshlanadi, keyin ishonchsizlikka aylanadi va oxir-oqibat keskin qarorlar bilan yakunlanadi."
+  },
+  {
+    "instruction": "Otabek obrazini idealist qahramon sifatida baholang.",
+    "input": "",
+    "output": "U jamiyatni o‘zgartirish mumkinligiga ishonadi va adolat tarafdori bo‘lib qoladi. Idealizm uning kuchi bo‘lsa ham, ba’zan uni fojiaga yaqinlashtiradi."
+  },
+  {
+    "instruction": "Asarda ayollar taqdirining og‘irligi qanday ochib berilgan?",
+    "input": "",
+    "output": "Ayollar ko‘pincha boshqalarning qarori bilan yashashga majbur bo‘ladi. Muallif bu orqali davr ijtimoiy tengsizliklarini ko‘rsatadi."
+  },
+  {
+    "instruction": "Otabekning sukut saqlashi ayrim sahnalarda qanday ma’no beradi?",
+    "input": "",
+    "output": "U sukut orqali ichki kurashini yashiradi. Bu holat uning ruhiy og‘irlikni yolg‘iz ko‘tarayotganini anglatadi."
+  },
+  {
+    "instruction": "Kumush obrazini ma’naviy poklik timsoli sifatida tushuntiring.",
+    "input": "",
+    "output": "Kumush boshqalarga yomonlik tilamaydi va har doim murosani tanlaydi. Shu sababli u asarda poklik va mehr ramziga aylanadi."
+  },
+  {
+    "instruction": "Asarda muhabbat va jamiyat qonunlari o‘rtasidagi qarama-qarshilikni izohlang.",
+    "input": "",
+    "output": "Qahramonlar yurak istagi bilan jamiyat talablari o‘rtasida tanlov qilishga majbur bo‘ladi. Bu ziddiyat asarning asosiy dramatik kuchini yaratadi."
+  },
+  {
+    "instruction": "Roman voqealarida sabr tushunchasi qanday rol o‘ynaydi?",
+    "input": "",
+    "output": "Sabr qahramonlarning eng katta sinovi sifatida namoyon bo‘ladi. Ayniqsa Kumush obrazi orqali sabrning ma’naviy kuch ekani ko‘rsatiladi."
+  },
+  {
+    "instruction": "Asarda insoniy xatolar qanday qilib taqdirni o‘zgartirib yuborishini tushuntiring.",
+    "input": "",
+    "output": "Kichik qarorlar va noto‘g‘ri tushunishlar zanjiri katta fojiaga olib keladi. Muallif har bir harakat oqibatga ega ekanini ko‘rsatadi."
+  },
+  {
+    "instruction": "Otabekning zamonaviy fikrlashi uning atrofidagi insonlarga nega g‘alati tuyulganini tushuntiring.",
+    "input": "",
+    "output": "Otabek nikoh, jamiyat va boshqaruv haqida boshqalardan farqli fikr yuritadi. Ko‘pchilik an’anaga suyanar ekan, u adolat va o‘zaro moslikni muhim deb biladi. Shu sababli uning qarashlari davr odamlari uchun noodatiy ko‘ringan."
+  },
+  {
+    "instruction": "Asarda ota-onaga bo‘lgan itoat va shaxsiy tanlov o‘rtasidagi ziddiyatni izohlang.",
+    "input": "",
+    "output": "Qahramon ota-onasini hurmat qiladi, ammo o‘z baxtini ham yo‘qotishni istamaydi. Bu ikki majburiyat o‘rtasidagi qarama-qarshilik voqealarning asosiy dramatik sababiga aylanadi."
+  },
+  {
+    "instruction": "Kumushning fe’l-atvori oiladagi keskin vaziyatlarni qanday yumshatadi?",
+    "input": "",
+    "output": "U muloyim gapirish va sabr bilan javob berishni tanlaydi. Shu orqali vaqtincha bo‘lsa ham nizolarni kamaytiradi va tinchlikni saqlashga harakat qiladi."
+  },
+  {
+    "instruction": "Zaynabning qarorlarini tushunish uchun uning ruhiy holatini tahlil qiling.",
+    "input": "",
+    "output": "U o‘zini sevgi va e’tibordan mahrum bo‘lgandek his qiladi. Rashk hissi kuchaygani sari voqealarni noto‘g‘ri baholay boshlaydi va hissiyotlar uni boshqaradi."
+  },
+  {
+    "instruction": "Asarda erkak va ayol munosabatlariga qanday qarash ilgari suriladi?",
+    "input": "",
+    "output": "Muallif o‘zaro hurmat va tushunishga asoslangan munosabatni ideal sifatida ko‘rsatadi. Faqat bir tomon hukmron bo‘lgan munosabat barqaror emasligi ochib beriladi."
+  },
+  {
+    "instruction": "Otabekning sukut saqlashi ayrim sahnalarda qanday ma’noni anglatadi?",
+    "input": "",
+    "output": "U bahslashish o‘rniga ichki kurashni yashiradi. Sukut uning hurmatli bo‘lish istagi va ruhiy og‘irligini bildiradi."
+  },
+  {
+    "instruction": "Asarda noto‘g‘ri qarorlar qanday qilib ketma-ket muammolarni keltirib chiqarishini tushuntiring.",
+    "input": "",
+    "output": "Bir qaror boshqa vaziyatni murakkablashtiradi va yangi muammo tug‘diradi. Ochiq muloqot yetishmasligi sabab voqealar nazoratdan chiqadi."
+  },
+  {
+    "instruction": "Kumush va Zaynab xarakterlarini solishtirib tahlil qiling.",
+    "input": "",
+    "output": "Kumush sabrli va mulohazali bo‘lsa, Zaynab hissiyotga tez beriladi. Shu farq ularning voqealarga munosabatini ham butunlay boshqacha qiladi."
+  },
+  {
+    "instruction": "Asarda muhabbat nega baxt emas, balki sinov sifatida tasvirlangan?",
+    "input": "",
+    "output": "Sevgi qahramonlarni murakkab tanlovlarga olib keladi. Jamiyat bosimi sabab ular his-tuyg‘ularini erkin amalga oshira olmaydi."
+  },
+  {
+    "instruction": "Otabekning savdo tajribasi uning jamiyat haqidagi fikrlariga qanday ta’sir qiladi?",
+    "input": "",
+    "output": "Turli joylarni ko‘rgan Otabek boshqaruv va tartib farqlarini anglaydi. Shu sabab u jamiyatni o‘zgartirish kerak deb hisoblaydi."
+  },
+  {
+    "instruction": "Asarda insoniy ishonch yo‘qolishi qanday oqibatlarga olib keladi?",
+    "input": "",
+    "output": "Ishonch yo‘qolganda shubha paydo bo‘ladi, shubha esa nizoni kuchaytiradi. Oxir-oqibat bu fojiaviy natijalarga sabab bo‘ladi."
+  },
+  {
+    "instruction": "Qahramonlarning ichki kechinmalari syujet rivojiga qanday ta’sir qiladi?",
+    "input": "",
+    "output": "Voqealar tashqi harakatlardan ko‘ra ichki hissiyotlar bilan boshqariladi. Qahramonlarning ruhiy qarorlari syujet yo‘nalishini belgilaydi."
+  },
+  {
+    "instruction": "Asardagi oilaviy qadriyatlar qanday yoritilganini tushuntiring.",
+    "input": "",
+    "output": "Oila hurmat va burch markazi sifatida tasvirlanadi. Ammo haddan tashqari bosim inson baxtiga to‘sqinlik qilishi ham ko‘rsatiladi."
+  },
+  {
+    "instruction": "Roman voqealarida adolat tushunchasi qanday namoyon bo‘ladi?",
+    "input": "",
+    "output": "Qahramonlar adolatni izlaydi, ammo jamiyat har doim ham bunga imkon bermaydi. Muallif adolat yo‘qligi insoniy fojiaga olib kelishini ko‘rsatadi."
+  },
+  {
+    "instruction": "Asardan chiqarish mumkin bo‘lgan umumiy hayotiy saboqni yozing.",
+    "input": "",
+    "output": "Inson qarorlarida samimiylik va ochiq muloqot muhim. Hissiyot va shubha ustun kelganda esa eng yaxshi niyat ham fojiaga aylanishi mumkin."
+  }
+]
